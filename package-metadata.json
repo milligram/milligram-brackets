@@ -1,0 +1,9 @@
+{
+	"name": "milligram-snippets-brackets",
+	"description": "Milligram Snippets for Brackets.",
+	"dependencies": [],
+	"sublime_text": "*",
+	"version": "0.0.2",
+	"platforms": ["*"],
+	"url": "https://github.com/milligram/snippets-brackets/"
+}
